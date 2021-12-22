@@ -4,12 +4,12 @@
 
 
 :root {
-  --color-primary: #ec4755;
+  --color-primary: #39B2AC; /*39B2AC   ec4755*/
   --color-secondary: #a12c34;
   --color-tertiaty: #99a0a3;
 }
 
-a { 
+a {
   @apply text-red-700;
 }
 

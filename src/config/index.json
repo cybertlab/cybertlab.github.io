@@ -1,6 +1,6 @@
 {
   "company": {
-    "name": "React landing page 2021",
+    "name": "Cybert Lab",
     "logo": "/assets/images/logo.png"
   },
   "navigation": [
@@ -9,48 +9,53 @@
       "href": "product"
     },
     {
-      "name": "Features",
+      "name": "Team",
       "href": "features"
     },
 
     {
-      "name": "Pricing",
+      "name": "Allocation",
       "href": "pricing"
     },
     {
-      "name": "About",
+      "name": "Rules",
       "href": "about"
     }
   ],
   "callToAction": {
-    "text": "Get started",
+    "text": "Join Dao",
     "href": "#"
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
+    "title": "What is ",
+    "subtitle": "Cybert Lab",
     "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
-      "text": "Get started",
+      "text": "Fund us ->",
       "href": "#"
     },
     "secondaryAction": {
       "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "href": "mailto:cybertlab88@gmail.com?subject=I like Cybert Lab!"
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "What are we doing 2021 ?",
     "items": [
       {
-        "title": "A plug n play template",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
+        "title": "A decentralized wallet",
+        "description": "A crypto wallet & gateway to blockchain apps. Manage your digital assets.",
         "img": "/assets/images/product1.jpg"
       },
       {
-        "title": "Make it your own!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "title": "Join the NFTs world",
+        "description": "Release the Green Freak on Mars project on Opensea market",
+        "img": "/assets/images/product2.jpg"
+      },
+      {
+        "title": "NFT/Tokens trading tools ",
+        "description": "Get the latest floor prices, volume, and sale history on NFTs, discover latest trending projects being minted, and see transaction history and portfolio value of any wallet.",
         "img": "/assets/images/product2.jpg"
       }
     ]
@@ -61,9 +66,9 @@
     "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
     "items": [
       {
-        "name": "React.js",
-        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
-        "icon": "/assets/images/react.png"
+        "name": "John Alonso",
+        "description": "Dev and product manager",
+        "icon": "/assets/images/logo.png"
       },
       {
         "name": "Tailwind",
@@ -71,7 +76,7 @@
         "icon": "/assets/images/tailwindcss.svg"
       },
       {
-        "name": "Next.js",
+        "name": "White Alonso",
         "description": "Next.js is a framework for server-rendered React applications using Next.js.",
         "icon": "/assets/images/nextjs.svg"
       },
@@ -83,12 +88,12 @@
     ]
   },
   "pricing": {
-    "title": "Pricing",
+    "title": "Allocation",
     "items": [
       {
-        "name": "Free",
-        "price": "$0",
-        "priceDetails": "for one user",
+        "name": "Team",
+        "price": "10%",
+        "priceDetails": "for team members",
         "features": [
           "1 user",
           "Basic Support",
@@ -97,9 +102,9 @@
         ]
       },
       {
-        "name": "Pro",
-        "price": "$15",
-        "priceDetails": "per user",
+        "name": "Contributors",
+        "price": "65%",
+        "priceDetails": "for Early Contributors",
 
         "features": [
           "5 users",
@@ -145,9 +150,9 @@
       }
     ],
     "socialMedia": {
-      "github": "https://github.com/issaafalkattan",
-      "twitter": "https://twitter.com/issaafkattan",
-      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+      "github": "https://github.com/cybertlab",
+      "twitter": "https://twitter.com/HelenGu2",
+      "discord": "https://discord.gg/xdDPHDypHG"
     }
   }
 }
