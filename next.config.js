@@ -9,8 +9,8 @@ module.exports = withBundleAnalyzer({
 
   // fuck js:
   basePath: '/website',
-  // fuck js:
-  assetPrefix: '/website',
+  // fuck js: fuck next.js
+  assetPrefix: '/website/',
 
   // The starter code load resources from `public` folder with `router.basePath` in React components.
   // So, the source code is "basePath-ready".
