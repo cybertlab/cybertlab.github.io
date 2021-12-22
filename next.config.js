@@ -15,7 +15,8 @@ module.exports = withBundleAnalyzer({
   // fuck js: fuck next.js
   publicRuntimeConfig: {
     // Will be available on both server and client
-    staticFolder: '/website/public',
+    // staticFolder: '/website/public',
+    basePath: '/website',
   },
   // The starter code load resources from `public` folder with `router.basePath` in React components.
   // So, the source code is "basePath-ready".
