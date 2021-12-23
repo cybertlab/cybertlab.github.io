@@ -8,9 +8,9 @@ module.exports = withBundleAnalyzer({
   trailingSlash: true,
 
   // fuck js:
-  basePath: '/website',
+  //basePath: '/website',
   // fuck js: fuck next.js
-  assetPrefix: '/website/',
+  //assetPrefix: '/website/',
 
   // fuck js: fuck next.js
   publicRuntimeConfig: {
